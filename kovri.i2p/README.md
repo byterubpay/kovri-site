@@ -23,9 +23,9 @@
 4. Questions & Contact
 
 ## 1. Intro
-Hey everyone, I'm rehrar. The kid responsible for making the custom framework and design that is used in both the getmonero.org and getkovri.org websites. If you're reading this you probably want to know how to edit a page or add content, maybe even take content away. Let me be the first to say, thank you so much! The Monero Project is made and run by the community, and you're helping to make it better. 
+Hey everyone, I'm rehrar. The kid responsible for making the custom framework and design that is used in both the getmonero.org and getkovri.org websites. If you're reading this you probably want to know how to edit a page or add content, maybe even take content away. Let me be the first to say, thank you so much! The ByteRub Project is made and run by the community, and you're helping to make it better. 
 
-There are a couple of differences between the Kovri and Monero websites, so I just want to emphasize *you are reading the Kovri website instructions*.
+There are a couple of differences between the Kovri and ByteRub websites, so I just want to emphasize *you are reading the Kovri website instructions*.
 
 Feel free to skip down to a relevant section if you already know what you need. Also, any help translating this document into another language is greatly appreciated.
 
@@ -60,7 +60,7 @@ If any further plugins are added to the website over time, this document will be
 
 #### 2.i.c GitHub
 
-Secondly, you'll need to fork the [Kovri website from GitHub](https://github.com/monero-project/kovri-site) be willing to work with your own repository. Yeah, that means you kind of have to know how GitHub and version control works too. Don't worry, if you have questions, the Kovri community is really happy to help out.
+Secondly, you'll need to fork the [Kovri website from GitHub](https://github.com/byterubpay/kovri-site) be willing to work with your own repository. Yeah, that means you kind of have to know how GitHub and version control works too. Don't worry, if you have questions, the Kovri community is really happy to help out.
 
 You can test whether everything is building correctly before you get started. Once the website builds successfully, you've got a working environment ready to go. All that's left is a working knowledge of HTML and CSS, which, unfortunately, is outside the scope of this document.
 
@@ -71,7 +71,7 @@ You're still going to need the website files, because you're actually going to b
 
 #### 2.ii.a Of GitHub and Markdown 
 
-Go ahead and fork the Kovri website or download the [files from GitHub](https://github.com/monero-project/kovri-site). Don't worry, you won't need Jekyll or anything on your computer. You should be able to edit the files from within the GitHub website interface.
+Go ahead and fork the Kovri website or download the [files from GitHub](https://github.com/byterubpay/kovri-site). Don't worry, you won't need Jekyll or anything on your computer. You should be able to edit the files from within the GitHub website interface.
 
 First things first, you're going to need to know how to use Markdown. It's basically a in-between language that enables people who don't know HTML to just write, and it will be compiled into HTML for you. You can find a great Markdown cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). IF you need more help, Google and YouTube are great resources.
 
@@ -169,7 +169,7 @@ Let's say that we're going to translate the [Building Page](https://getkovri.org
 
 #### 2.iii.a Fork that Code!
 
-Fork the Kovri website and clone the repository recursively with `$ git clone --recurisve https://github.com/monero-project/kovri-site`.
+Fork the Kovri website and clone the repository recursively with `$ git clone --recurisve https://github.com/byterubpay/kovri-site`.
 
 For this, you're going to need to know how to use Markdown. It's basically a in-between language that enables people who don't know HTML to just write, and it will be compiled into HTML for you. You can find a great Markdown cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). If you need more help, Google and YouTube are great resources.
 
@@ -191,7 +191,7 @@ Keep that tab or window open and open another one. Find the folder that represen
 
 #### 2.iii.c Translate it!
 
-**Note: all translations to documentation are done to the kovri-docs repo at https://github.com/monero-project/kovri-docs**
+**Note: all translations to documentation are done to the kovri-docs repo at https://github.com/byterubpay/kovri-docs**
 
 You can leave all of the markdown formatting intact and simply change the words after or between it. So for example you can take this text:
 
@@ -243,4 +243,4 @@ That should be everything that you need. There will be an assets document releas
 
 Feel free to contact us with any questions regarding translation, page-creation, content, markdown, jekyll, html/css, or anything else. Again, you can reach us at the #kovri-dev IRC channel.
 
-Thank you for being a part of, and contributing to, the Monero community. This coin is all the stronger for your help.
+Thank you for being a part of, and contributing to, the ByteRub community. This coin is all the stronger for your help.

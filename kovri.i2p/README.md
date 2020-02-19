@@ -23,7 +23,7 @@
 4. Questions & Contact
 
 ## 1. Intro
-Hey everyone, I'm rehrar. The kid responsible for making the custom framework and design that is used in both the getmonero.org and getkovri.org websites. If you're reading this you probably want to know how to edit a page or add content, maybe even take content away. Let me be the first to say, thank you so much! The ByteRub Project is made and run by the community, and you're helping to make it better. 
+Hey everyone, I'm rehrar. The kid responsible for making the custom framework and design that is used in both the getbyterub.org and getkovri.org websites. If you're reading this you probably want to know how to edit a page or add content, maybe even take content away. Let me be the first to say, thank you so much! The ByteRub Project is made and run by the community, and you're helping to make it better. 
 
 There are a couple of differences between the Kovri and ByteRub websites, so I just want to emphasize *you are reading the Kovri website instructions*.
 

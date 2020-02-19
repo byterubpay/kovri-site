@@ -33,7 +33,7 @@ titles:
 
 
 home:
-  main_para1: Kovri est une technologie d'anonymisation gratuite et décentralisée développée par Monero.
+  main_para1: Kovri est une technologie d'anonymisation gratuite et décentralisée développée par ByteRub.
   main_para2: Actuellement fondé sur les spécifications ouvertes d'I2P, Kovri utilise à la fois le chiffrement en ail et le routage en ail pour créer une surcouche réseau privée et sécurisée à travers internet. Cette surcouche réseau permet aux utilisateurs de camoufler leur localisation géographique et leur adresse IP publique.
   main_para3: En substance, Kovri protège le trafic internet d'une application pour le rendre anonyme au sein du réseau.
   main_para4: Un routeur léger et axé sur la sécurité, Kovri est pleinement compatible avec le réseau I2P. Une version alpha de Kovri est en préparation.
@@ -100,5 +100,5 @@ contributing:
   vision_para1: Nous sommes ouverts individus de tous bords qui pensent pouvoir contribuer d'une manière significative. Nous encourageons toute personne intéressée à voir la rubrique
   vision_para2: contact et support
   vision_para3: pour partager leurs idées.
-  vision_para4: Si vous vous sentez de soutenir financièrement le développement de Kovri, vous pouvez donner fond général du projet Monero (Kovri est sous intendance de l'équipe cœur (*Core Team*) du projet Monero). Des informations sur les dons sont disponibles sur la
+  vision_para4: Si vous vous sentez de soutenir financièrement le développement de Kovri, vous pouvez donner fond général du projet ByteRub (Kovri est sous intendance de l'équipe cœur (*Core Team*) du projet ByteRub). Des informations sur les dons sont disponibles sur la
   vision_para5: page de contribution.

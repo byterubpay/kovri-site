@@ -33,7 +33,7 @@ titles:
 
 
 home:
-  main_para1: Kovri è una tecnologia libera, decentralizzata e anonima sviluppata da Monero.
+  main_para1: Kovri è una tecnologia libera, decentralizzata e anonima sviluppata da ByteRub.
   main_para2: Attualmente basato sulle specifiche aperte di I2P, Kovri utilizza la garlic encryption e il garlic routing per creare una rete overlay protetta e privata su internet. Questa rete overlay offre agli utenti la possibilità di nascondere in modo efficace la loro posizione geografica e l’indirizzo IP di Internet.
   main_para3: Fondamentalmente, Kovri nasconde il traffico internet di un’applicazione per renderlo anonimo all’interno della rete.
   main_para4: Un router leggero e orientato alla sicurezza, Kovri è completamente compatibile con la rete I2P. Una versione alfa di Kovri è in fase di sviluppo.
@@ -102,5 +102,5 @@ contributing:
   vision_para1: Siamo aperti alle persone di tutti i campi che pensano di poter contribuire in modo significativo. Incoraggiamo chiunque sia interessato a visitare la sezione
   vision_para2: contatti e supporto
   vision_para3: e a condividere la proprie idee
-  vision_para4: Se ti senti di contribuire finanziariamente allo sviluppo di Kovri, puoi donare al fondo generale The Monero Project (Kovri è sotto la guida del Core Team di Monero Project). Le informazioni su come donare possono essere trovate sulla
-  vision_para5: pagina contribuire di Monero.
+  vision_para4: Se ti senti di contribuire finanziariamente allo sviluppo di Kovri, puoi donare al fondo generale The ByteRub Project (Kovri è sotto la guida del Core Team di ByteRub Project). Le informazioni su come donare possono essere trovate sulla
+  vision_para5: pagina contribuire di ByteRub.

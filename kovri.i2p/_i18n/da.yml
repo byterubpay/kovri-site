@@ -33,7 +33,7 @@ titles:
 
 
 home:
-  main_para1: Kovri er en gratis, decentral, anonymitetsteknologi udviklet af Monero.
+  main_para1: Kovri er en gratis, decentral, anonymitetsteknologi udviklet af ByteRub.
   main_para2: Kovri er på nuværende tidspunkt baseret på I2P's åbne specifikationer, og bruger både garlic kryptering og garlic routing til at skabe et privat og beskyttet overlagsnetværk over internettet. Dette overlagsnetværk giver brugere evnen til effektivt at skjule deres geografiske lokation og IP-adresse.
   main_para3: Kort sagt anonymiserer Kovri en applikations internettrafik.
   main_para4: Som en let og sikkerhedsfokuseret router, er Kovri fuldt kompatibel med I2P netværket. En alfaversion af Kovri er under udarbejdelse.
@@ -100,5 +100,5 @@ contributing:
   vision_para1: Vi er åbne overfor individer fra alle felter, der mener de har noget at bidrage med. Vi opfordrer alle interesserede til 
   vision_para2: kontakt og support
   vision_para3: sektionen for at dele dine idéer.
-  vision_para4: Hvis du har lyst til at bidrage økonomisk til udviklingen af Kovri, kan du donere til Moneroprojektets fond (Kovri er under ledelse af the Core Team af Moneroprojektet). Information om donation kan findes på Moneros
+  vision_para4: Hvis du har lyst til at bidrage økonomisk til udviklingen af Kovri, kan du donere til ByteRubprojektets fond (Kovri er under ledelse af the Core Team af ByteRubprojektet). Information om donation kan findes på ByteRubs
   vision_para5: contribution side.

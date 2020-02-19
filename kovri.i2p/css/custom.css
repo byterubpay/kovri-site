@@ -405,7 +405,7 @@ a.btn-link:hover, a.btn-link:active, a.btn-link:focus {
     margin-bottom: 1rem;
 }
 
-img.monero-logo {
+img.byterub-logo {
     max-width: 100%;
     height: auto;
     width: 13rem;
@@ -775,7 +775,7 @@ label[for="mobile-burger"] {
     }
 
         
-img.monero-logo {
+img.byterub-logo {
     position: inherit;
     width: 10rem;
     padding: 0;
